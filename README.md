@@ -20,4 +20,3 @@ How do different types of customers behave when ordering?
 ## Data
 The project uses open-source data sets from Instacart, dated back to 2017, which can be downloaded from the following link. [Download Link](https://www.instacart.com/datasets/grocery-shopping-2017)
 Additionally, the project utilizes a Customer Data Set.
-  
