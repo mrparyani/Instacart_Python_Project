@@ -3,7 +3,7 @@
 ![Instacart](https://github.com/mrparyani/Instacart_Python_Project/blob/main/04%20Analysis/Visualizations/Instacart%20-%20Logo.png)
 
 Instacart is a real online grocery store, which operates through website and an app. 
-This project was handled by using Python as part of the Data Analytics Course at CareerFoundry.
+This project was handled by using Python as part of the Data Analytics Course.
 
 ## Introduction
 Instacart is a tech company that was founded in 2012, operating as an online grocery store through their website and app, providing same-day grocery pick-up and delivery services in the U.S. and Canada. The company has an impressive record, with 500 million products available from over 40,000 stores in 5,500+ cities.
